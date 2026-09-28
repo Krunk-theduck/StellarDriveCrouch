@@ -1,0 +1,7 @@
+{
+    "id":  "stellardrive-crouch",
+    "name":  "Crouch",
+    "author":  "Krunk",
+    "version":  "0.1.0",
+    "description":  "Crouch on a key, hold or toggle. Host is required to have it. Needs SDModKit."
+}
